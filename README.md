@@ -1,7 +1,5 @@
 ## Hi there 👋
-- 🦀 I'm currently learning Rust
-- 🧑‍💻 I'm always interested in collaborating with other creators
-- 📨 Feel free to contact me via e-mail
+I'm currently learning Rust 🦀
 
 ### Languages and Tools:
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://github.com/topics/linux)
