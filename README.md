@@ -1,5 +1,9 @@
 ## Hi there 👋
-I'm currently learning Rust 🦀
+🦀 I'm currently learning Rust
+
+👨‍💻 Open for collaboration
+
+Working @ [Dislord](https://dislord.io)
 
 ### Languages and Tools:
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://github.com/topics/linux)
