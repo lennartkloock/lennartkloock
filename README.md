@@ -1,11 +1,12 @@
-## Hi there 👋
-🦀 I'm currently learning Rust
+🦀 Happy Rustacean
 
 👨‍💻 Open for collaboration
 
-Working @ [Dislord](https://dislord.io)
+### 🔗 GitLab Accounts
+[gitlab.com](https://gitlab.com/lennartkloock)  
+[gitlab.torproject.org](https://gitlab.torproject.org/lennartkloock)
 
-### Languages and Tools:
+### 🧭 Languages and Tools
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://github.com/topics/linux)
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/topics/git)
 [<img align="left" alt="Rust" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://github.com/topics/rust)
@@ -20,7 +21,7 @@ Working @ [Dislord](https://dislord.io)
 <br />
 <br />
 
-### Statistics:
+### 📈 Statistics
 [![Lennart Kloock's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennartkloock&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Lennart Kloock's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lennartkloock&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
