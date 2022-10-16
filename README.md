@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234b8dda&lines=Hi%2C+dear+stranger!;Feel+free+to+look+around.;%3A%29)](https://git.io/typing-svg)
-
-🦀 Happy Rustacean
+🦀 Rustacean
 
 👨‍💻 Open for collaboration
 
