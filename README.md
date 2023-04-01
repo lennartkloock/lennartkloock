@@ -2,7 +2,7 @@
 
 👨‍💻 Open for collaboration
 
-## 🔗 GitLab Accounts
+## 🔗 GitLab
 [gitlab.com](https://gitlab.com/lennartkloock)  
 [gitlab.torproject.org](https://gitlab.torproject.org/lennartkloock)
 
