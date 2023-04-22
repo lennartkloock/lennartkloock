@@ -31,7 +31,6 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_topics_sort: activity
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
