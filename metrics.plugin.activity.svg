@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="335" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="828" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,17 +22,277 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 19 commits in
                                         <span class="repo">lennartkloock/scuffle</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/config</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aea6609</div>
+                                        <div class="sha">#8f9d86e</div>
+                                        <div class="message">feat: new config system
+
+Fix rebase</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b0d2ed</div>
+                                        <div class="message">feat: new config system
+
+Fix compilation issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a8715c</div>
+                                        <div class="message">feat: new config system
+
+Restructre crates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbd4514</div>
                                         <div class="message">feat: new config system
 
 Implement parse_cli function to actually be able to parse cli arguments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c5cd44</div>
+                                        <div class="message">feat: new config system
+
+Add parse_cli function to actually parse arguments</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b9242c</div>
+                                        <div class="message">feat: new config system
+
+Add support for `Option`s in clap_config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c16a3e</div>
+                                        <div class="message">feat: new config system
+
+Remove optional config arg</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b56f478</div>
+                                        <div class="message">feat: new config system
+
+Add tests mod to clap_config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70aebdb</div>
+                                        <div class="message">feat: new config system
+
+Fix common crates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e596fe</div>
+                                        <div class="message">feat: new config system
+
+Add clap_config and clap_config_derive crates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a1a918</div>
+                                        <div class="message">feat: new config system
+
+Implement for api crate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3ebe4a</div>
+                                        <div class="message">feat: rework config system
+
+Add my new config solution</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#115b175</div>
+                                        <div class="message">feat: rework config system
+
+Extract duplicate config structs into common crate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac4d79b</div>
+                                        <div class="message">chore: fix formatting on stream! and try_stream! macros
+
+https://github.com/tokio-rs/async-stream/issues/68 pointed out we can
+use the `stream!({ ... })` macro syntax to force rustfmt to format the
+inner code block.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0284620</div>
+                                        <div class="message">feat: chat room
+
+Added chat functionality to the backend and frontend, enabling users to
+send and receive messages in real-time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b6d1bf</div>
+                                        <div class="message">feat: gql pubsub event subscriptions with redis
+
+This PR adds a redis subscriber which manages redis pubsub
+subscriptions. Aswell as lays the foundation for GQL subscriptions by
+adding a username displayname update subscription event. However there
+is currently no producer of this event, that will come when we add an
+API to be able to change your display name and username.
+
+Resolves #87 point 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82cacaa</div>
+                                        <div class="message">feat: add hls extension for groups
+
+This is not part of the HLS spec but it provides extra information for
+our player so we can prioritize OPUS &gt; AAC when we have both available.
+(if the player supports opus decode)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#192e363</div>
+                                        <div class="message">feat: restrict ffmpeg client
+
+Remove env variables and change the UID and GID of the ffmpeg process.
+
+completes #86 part 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5c2914</div>
+                                        <div class="message">feat: add transcoder tests
+
+This commit adds some very basic tests for the transcoder so that we can
+confirm that the transcoder is working correctly.
+
+partially works on #86 point 2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">lennartkloock/scuffle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ac4d79b</div>
+                                        <div class="message">chore: fix formatting on stream! and try_stream! macros
+
+https://github.com/tokio-rs/async-stream/issues/68 pointed out we can
+use the `stream!({ ... })` macro syntax to force rustfmt to format the
+inner code block.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0284620</div>
+                                        <div class="message">feat: chat room
+
+Added chat functionality to the backend and frontend, enabling users to
+send and receive messages in real-time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b6d1bf</div>
+                                        <div class="message">feat: gql pubsub event subscriptions with redis
+
+This PR adds a redis subscriber which manages redis pubsub
+subscriptions. Aswell as lays the foundation for GQL subscriptions by
+adding a username displayname update subscription event. However there
+is currently no producer of this event, that will come when we add an
+API to be able to change your display name and username.
+
+Resolves #87 point 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82cacaa</div>
+                                        <div class="message">feat: add hls extension for groups
+
+This is not part of the HLS spec but it provides extra information for
+our player so we can prioritize OPUS &gt; AAC when we have both available.
+(if the player supports opus decode)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#192e363</div>
+                                        <div class="message">feat: restrict ffmpeg client
+
+Remove env variables and change the UID and GID of the ffmpeg process.
+
+completes #86 part 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5c2914</div>
+                                        <div class="message">feat: add transcoder tests
+
+This commit adds some very basic tests for the transcoder so that we can
+confirm that the transcoder is working correctly.
+
+partially works on #86 point 2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">lennartkloock/scuffle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ac4d79b</div>
+                                        <div class="message">chore: fix formatting on stream! and try_stream! macros
+
+https://github.com/tokio-rs/async-stream/issues/68 pointed out we can
+use the `stream!({ ... })` macro syntax to force rustfmt to format the
+inner code block.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0284620</div>
+                                        <div class="message">feat: chat room
+
+Added chat functionality to the backend and frontend, enabling users to
+send and receive messages in real-time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b6d1bf</div>
+                                        <div class="message">feat: gql pubsub event subscriptions with redis
+
+This PR adds a redis subscriber which manages redis pubsub
+subscriptions. Aswell as lays the foundation for GQL subscriptions by
+adding a username displayname update subscription event. However there
+is currently no producer of this event, that will come when we add an
+API to be able to change your display name and username.
+
+Resolves #87 point 2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82cacaa</div>
+                                        <div class="message">feat: add hls extension for groups
+
+This is not part of the HLS spec but it provides extra information for
+our player so we can prioritize OPUS &gt; AAC when we have both available.
+(if the player supports opus decode)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#192e363</div>
+                                        <div class="message">feat: restrict ffmpeg client
+
+Remove env variables and change the UID and GID of the ffmpeg process.
+
+completes #86 part 3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5c2914</div>
+                                        <div class="message">feat: add transcoder tests
+
+This commit adds some very basic tests for the transcoder so that we can
+confirm that the transcoder is working correctly.
+
+partially works on #86 point 2</div>
                                     </div>
                                 </div>
                             </section>
@@ -51,10 +311,10 @@ Implement parse_cli function to actually be able to parse cli arguments</div>
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/config</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0520037</div>
+                                        <div class="sha">#a73f84f</div>
                                         <div class="message">feat: new config system
 
-Add parse_cli function to actually parse arguments</div>
+Fix compilation issues</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,48 +323,21 @@ Add parse_cli function to actually parse arguments</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Reviewed
-                                        <span class="issue">#64 feat: chat room</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">lennartkloock/scuffle</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by SongoMen in <span class="repo">ScuffleTV/scuffle</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#64 feat: chat room</span>
+                                    <div>on branch <span class="code">lennart/config</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d136b9</div>
+                                        <div class="message">feat: new config system
+
+Fix compilation issues</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by SongoMen in <span class="repo">ScuffleTV/scuffle</span></div>
-                                    <div class="comment">Oh right, didn't think about that</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#64 feat: chat room</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by SongoMen in <span class="repo">ScuffleTV/scuffle</span></div>
                                 </div>
                             </section>
                         </div>
