@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
     <defs>
         <style/>
     </defs>
@@ -29,100 +29,17 @@
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/config</span></div>
                                     <div class="commit">
-                                        <div class="sha">#187b908</div>
-                                        <div class="message">feat: new config system
+                                        <div class="sha">#62ca341</div>
+                                        <div class="message">feat: simplify common config parse
 
-Run cargo fmt</div>
+Simplify common/config.rs parse function</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cc8846e</div>
-                                        <div class="message">feat: new config system
+                                        <div class="sha">#a64ef97</div>
+                                        <div class="message">feat: parse single keys
 
-Fix issue with nested default</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">lennartkloock/scuffle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">lennart/config</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#27c0278</div>
-                                        <div class="message">feat: new config system
-
-Add get_key to ConfigBuilder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#404f962</div>
-                                        <div class="message">feat: new config system
-
-Fix FromStr error variant</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">lennartkloock/scuffle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">lennart/config</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d31cc0</div>
-                                        <div class="message">feat: new config system
-
-Fix child method</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2948ffe</div>
-                                        <div class="message">feat: new config system
-
-Add null value</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">lennartkloock/scuffle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">lennart/config</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64969d7</div>
-                                        <div class="message">feat: new config system
-
-Add comments for Config trait methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6daac43</div>
-                                        <div class="message">feat: new config system
-
-Make clippy happy</div>
+Rename parse_key function and
+add support for parsing non-primitive values too</div>
                                     </div>
                                 </div>
                             </section>
@@ -141,10 +58,87 @@ Make clippy happy</div>
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/config</span></div>
                                     <div class="commit">
-                                        <div class="sha">#04b7090</div>
+                                        <div class="sha">#49b4d73</div>
+                                        <div class="message">fix: cargo fmt
+
+Run cargo fmt</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">lennartkloock/scuffle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">lennart/config</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b3f76de</div>
+                                        <div class="message">Merge branch 'lennart/config' of github.com:lennartkloock/scuffle into lennart/config</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">lennartkloock/scuffle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">lennart/config</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#df217fb</div>
+                                        <div class="message">feat: allow accessing map fields
+
+All maps pass the type check in the file module now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f2f318</div>
+                                        <div class="message">feat: error name
+
+Change UnsupportedFileExtension to UnsupportedFileFormat
+as it better describes the error</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">lennartkloock/scuffle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">lennart/config</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#187b908</div>
                                         <div class="message">feat: new config system
 
-Add support for default attribute on structs</div>
+Run cargo fmt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc8846e</div>
+                                        <div class="message">feat: new config system
+
+Fix issue with nested default</div>
                                     </div>
                                 </div>
                             </section>
