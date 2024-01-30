@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/website</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2adac2</div>
-                                        <div class="message">feat(website): mobile menu</div>
+                                        <div class="sha">#6b09d6b</div>
+                                        <div class="message">feat(website): pro icons</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/website</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c90d9c</div>
-                                        <div class="message">feat(website): add top nav drop down</div>
+                                        <div class="sha">#0fd147a</div>
+                                        <div class="message">feat(website): emotes page</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/website</span></div>
                                     <div class="commit">
-                                        <div class="sha">#49eb48f</div>
-                                        <div class="message">feat(website): responsive top nav</div>
+                                        <div class="sha">#f893447</div>
+                                        <div class="message">fix(website): further optimize for mobile</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/website</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9624e43</div>
-                                        <div class="message">feat(website): finish top nav design</div>
+                                        <div class="sha">#8c37f31</div>
+                                        <div class="message">chore(website): fmt</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/website</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d042420</div>
-                                        <div class="message">feat(website): add pages</div>
+                                        <div class="sha">#fa18aad</div>
+                                        <div class="message">feat(website): add settings link</div>
                                     </div>
                                 </div>
                             </section>
