@@ -24,7 +24,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">lennart/web-45</span>
+                                        <span class="code">lennart/web-85</span>
                                         in
                                         <span class="repo">SevenTV/SevenTV</span>
                                     </div>
@@ -45,11 +45,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2288059</div>
-                                        <div class="message">feat(website): blocked settings mock (#33)
+                                        <div class="sha">#bd55d23</div>
+                                        <div class="message">feat(website): add emote dialog mock (#36)
 
-Implement blocked settings mock.
-WEB-45</div>
+Implement add emote dialog mock.
+WEB-85</div>
                                     </div>
                                 </div>
                             </section>
@@ -62,12 +62,12 @@ WEB-45</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#33 feat(website): blocked settings mock</span>
+                                        <span class="issue">#36 feat(website): add emote dialog mock</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">SevenTV/SevenTV</span></div>
-                                    <div>3 files changed <span class="code">++60 --4</span></div>
+                                    <div>7 files changed <span class="code">++209 --76</span></div>
                                 </div>
                             </section>
                         </div>
@@ -79,12 +79,12 @@ WEB-45</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#33 feat(website): blocked settings mock</span>
+                                        <span class="issue">#36 feat(website): add emote dialog mock</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">SevenTV/SevenTV</span></div>
-                                    <div>3 files changed <span class="code">++60 --4</span></div>
+                                    <div>7 files changed <span class="code">++209 --76</span></div>
                                 </div>
                             </section>
                         </div>
@@ -97,7 +97,7 @@ WEB-45</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">lennart/web-45</span>
+                                        <span class="code">lennart/web-85</span>
                                         in
                                         <span class="repo">SevenTV/SevenTV</span>
                                     </div>
