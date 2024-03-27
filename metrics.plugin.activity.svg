@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/website</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f8d9db1</div>
-                                        <div class="message">fix(utils): remove unused type constraint</div>
+                                        <div class="sha">#47a0930</div>
+                                        <div class="message">fix(utils): dependencies</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,38 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ScuffleTV/scuffle</span>
+                                        <span class="repo">SevenTV/SevenTV</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/website</span></div>
+                                    <div>on branch <span class="code">troy/api-4</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d36bd3</div>
-                                        <div class="message">fix(utils): async-trait dependency</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ScuffleTV/scuffle</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/website</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4493ebf</div>
-                                        <div class="message">Troy/router (#207)
-
-Extend the router to support `express.js` style middlewares.
-Where we get given a next function to call and then handle subsequent
-errors.</div>
+                                        <div class="sha">#ca1e35e</div>
+                                        <div class="message">feat(api): new middlewares</div>
                                     </div>
                                 </div>
                             </section>
@@ -88,9 +64,31 @@ errors.</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">troy/router</span>
+                                        <span class="code">lennart/model-tickets</span>
                                         in
-                                        <span class="repo">ScuffleTV/scuffle</span>
+                                        <span class="repo">SevenTV/SevenTV</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SevenTV/SevenTV</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">troy/api-4</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dcb1090</div>
+                                        <div class="message">feat(api): model tickets (#50)
+
+Add tickets rust data model.</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,12 +101,12 @@ errors.</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#207 Troy/router</span>
+                                        <span class="issue">#50 feat(api): model tickets</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by TroyKomodo in <span class="repo">ScuffleTV/scuffle</span></div>
-                                    <div>15 files changed <span class="code">++335 --371</span></div>
+                                    <div> in <span class="repo">SevenTV/SevenTV</span></div>
+                                    <div>3 files changed <span class="code">++110 --11</span></div>
                                 </div>
                             </section>
                         </div>
