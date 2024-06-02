@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -22,45 +22,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">SevenTV/SevenTV</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#768d2e7</div>
-                                        <div class="message">feat(api): object id type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64f1a23</div>
-                                        <div class="message">fix(api): add missing permission guard</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SevenTV/SevenTV</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">lennart/api</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4001a95</div>
-                                        <div class="message">feat(api): add placeholders for missing resolvers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a967a14</div>
-                                        <div class="message">fix(api): user dataloader
-
-Cloning tokios OnceCell doesn't clone the reference but copies the whole value</div>
+                                        <div class="sha">#65f2b7a</div>
+                                        <div class="message">feat(api): emote set endpoints</div>
                                     </div>
                                 </div>
                             </section>
@@ -79,10 +49,8 @@ Cloning tokios OnceCell doesn't clone the reference but copies the whole value</
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#935c4b3</div>
-                                        <div class="message">feat(api): xd
-
-atomic commits</div>
+                                        <div class="sha">#8cf64fc</div>
+                                        <div class="message">feat(api): virtual user emote sets</div>
                                     </div>
                                 </div>
                             </section>
@@ -101,12 +69,12 @@ atomic commits</div>
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5e769f8</div>
-                                        <div class="message">feat(api): gql api</div>
+                                        <div class="sha">#2612d14</div>
+                                        <div class="message">refactor(api): remove useless `pub`s</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#951ca5c</div>
-                                        <div class="message">refactor(api): add gql endpoint</div>
+                                        <div class="sha">#cd654f3</div>
+                                        <div class="message">refactor(data-brittler): image processor callback handler</div>
                                     </div>
                                 </div>
                             </section>
@@ -118,19 +86,51 @@ atomic commits</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 5 commits in
                                         <span class="repo">SevenTV/SevenTV</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">lennart/api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7617753</div>
-                                        <div class="message">fix(api): user presence endpoint</div>
+                                        <div class="sha">#e03d1ad</div>
+                                        <div class="message">chore: fmt</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#31b8f79</div>
-                                        <div class="message">feat(api): user deletion endpoint</div>
+                                        <div class="sha">#296aa71</div>
+                                        <div class="message">fix(shared): typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f1f0ae</div>
+                                        <div class="message">feat(data-brittler): image processor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77f7d4c</div>
+                                        <div class="message">refactor: old types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b317781</div>
+                                        <div class="message">feat(api): more gql endpoints</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ScuffleTV/scuffle</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">troy/image-processor-ext</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9091665</div>
+                                        <div class="message">feat(image-processor): return metadata on callback</div>
                                     </div>
                                 </div>
                             </section>
