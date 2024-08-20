@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">SevenTV/SevenTV</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feature/cdn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#18f92ed</div>
-                                        <div class="message">fix(cdn): not found</div>
+                                        <div class="sha">#d9841c1</div>
+                                        <div class="message">docs(brittler): add todos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54e4cbd</div>
+                                        <div class="message">refactor(cdn): move s3 config to shared</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +53,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/cdn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#735908f</div>
-                                        <div class="message">fix(cdn): default config values</div>
+                                        <div class="sha">#3861dfb</div>
+                                        <div class="message">feat(cdn): strictly typed urls</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +73,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/cdn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#33ab3ba</div>
-                                        <div class="message">fix(cdn): i think this is actually kinda good</div>
+                                        <div class="sha">#90a3d49</div>
+                                        <div class="message">fix(cdn): add EntryDropGuard</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +93,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/cdn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e197857</div>
-                                        <div class="message">feat(cdn): request limiter</div>
+                                        <div class="sha">#c0029b5</div>
+                                        <div class="message">fix(cdn): tokio spawn</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +113,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/cdn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#820db06</div>
-                                        <div class="message">feat(cdn): s3 integration and request coalescing</div>
+                                        <div class="sha">#522cde6</div>
+                                        <div class="message">push: it's joever</div>
                                     </div>
                                 </div>
                             </section>
